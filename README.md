@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ;)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowcruz&layout=compact
 
 <!---
 gustavowcruz/gustavowcruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
